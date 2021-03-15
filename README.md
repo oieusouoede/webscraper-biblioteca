@@ -1,7 +1,5 @@
 # webscraper-biblioteca
 
----
-
 Este README está disponível em [English](README.en.md)  
 
 #### O que é esse projeto?
